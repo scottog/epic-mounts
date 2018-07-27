@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title: epic-mount
+## Version: 0.0.1
+## Author: Scott Gildersleeve
+## SavedVariables: AllTheThingsAD, AllTheThingsHarvestItems
+## SavedVariablesPerCharacter: AllTheThingsPCD
+## Notes: Addon for setting favorite mounts on a per-character basis
+
+src/congrats.lua
+epic-mount.lua
